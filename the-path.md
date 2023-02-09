@@ -1,8 +1,10 @@
 Once upon a time, in a vast and beautiful forest, there lived a little girl named Lily. She loved to explore the woods with her parents, but today, she wanted to go on an adventure on her own. So, she set off, skipping and singing, with her trusty companion, a squirrel named Scamper, by her side.
 
-![little girl named lily get lost in the woods with her squirrel companion](images/girl-squirrel.png)
+
 
 But before long, Lily realized that she was lost. The trees and the bushes all looked the same, and she couldn't find her way back to her parents. Scamper tried to help, but even he was at a loss.
+
+![little girl named lily get lost in the woods with her squirrel companion](images/tehOmega_little_girl_named_lily_get_lost_in_the_woods_with_her__af5b37a3-99e8-4dc0-bf65-bdfef96207a4.png)
 
 As the sun started to set and the shadows grew longer, Lily heard a sinister laugh. It was the laugh of a monster who lived in the forest and terrorized all who crossed his path. The monster was known as the Shadow, and Lily had always been warned to stay away from him.
 
